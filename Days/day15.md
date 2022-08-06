@@ -121,6 +121,8 @@ So as useful to allow the history file to grow bigger:
 echo 'export HISTSIZE=100000' >> ~/.bash_profile
 echo 'export HISTFILESIZE=10000000' >> ~/.bash_profile
 ```
+After this bash profile must be reloaded for changes to take effect by executing ". ~/.bash_profile"
+
 
 ![](Images/Day15_Linux21.png)
 
